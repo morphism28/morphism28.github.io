@@ -8,11 +8,11 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Juan&#39;s Blog</title>
-        <link>https://snowmemory.me/</link>
-        <description>这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</description>
+        <link>https://snowmemory.me/en/</link>
+        <description>Blog of reuixiy in English.</description>
         <generator>Hugo 0.113.0 https://gohugo.io/</generator>
         
-            <language>zh</language>
+            <language>en-US</language>
         
         
             <managingEditor>morphism28@outlook.com (morphism28)</managingEditor>
@@ -21,11 +21,11 @@
             <webMaster>morphism28@outlook.com (morphism28)</webMaster>
         
         
-            <copyright>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</copyright>
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
         <lastBuildDate>Thu, 26 Oct 2023 20:29:11 &#43;0000</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://snowmemory.me/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://snowmemory.me/en/rss.xml" />
         
         
     </channel>
