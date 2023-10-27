@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
-    <title type="text">Juan&#39;s Blog</title>
-    <subtitle type="html">这是 reuixiy 的生活与技术博客！怎么记住 reuixiy 呢？其实就是「一休儿」的拼音，只不过顺序是从右往左……</subtitle>
-    <updated>2023-10-26T20:29:11&#43;00:00</updated>
-    <id>https://snowmemory.me/</id>
-    <link rel="alternate" type="text/html" href="https://snowmemory.me/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://snowmemory.me/atom.xml" />
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Morphism28&#39;s Blog</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2023-10-27T06:56:55&#43;00:00</updated>
+    <id>https://snowmemory.cn/</id>
+    <link rel="alternate" type="text/html" href="https://snowmemory.cn/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://snowmemory.cn/atom.xml" />
     <author>
-            <name>morphism28</name>
-            <uri>https://snowmemory.me/</uri>
+            <name>Morphism28</name>
+            <uri>https://snowmemory.cn/</uri>
             
-                <email>morphism28@outlook.com</email>
+                <email>N/A</email>
             </author>
-    <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.113.0">Hugo</generator>
 </feed>
